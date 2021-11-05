@@ -1,0 +1,14 @@
+C:\Users\jacek\OneDrive\Desktop\C#\CalculateTheValueOfTheFunctionApp\CalculateTheValueOfTheFunctionApp\bin\Debug\netcoreapp3.1\CalculateTheValueOfTheFunctionApp.exe
+C:\Users\jacek\OneDrive\Desktop\C#\CalculateTheValueOfTheFunctionApp\CalculateTheValueOfTheFunctionApp\bin\Debug\netcoreapp3.1\CalculateTheValueOfTheFunctionApp.deps.json
+C:\Users\jacek\OneDrive\Desktop\C#\CalculateTheValueOfTheFunctionApp\CalculateTheValueOfTheFunctionApp\bin\Debug\netcoreapp3.1\CalculateTheValueOfTheFunctionApp.runtimeconfig.json
+C:\Users\jacek\OneDrive\Desktop\C#\CalculateTheValueOfTheFunctionApp\CalculateTheValueOfTheFunctionApp\bin\Debug\netcoreapp3.1\CalculateTheValueOfTheFunctionApp.runtimeconfig.dev.json
+C:\Users\jacek\OneDrive\Desktop\C#\CalculateTheValueOfTheFunctionApp\CalculateTheValueOfTheFunctionApp\bin\Debug\netcoreapp3.1\CalculateTheValueOfTheFunctionApp.dll
+C:\Users\jacek\OneDrive\Desktop\C#\CalculateTheValueOfTheFunctionApp\CalculateTheValueOfTheFunctionApp\bin\Debug\netcoreapp3.1\CalculateTheValueOfTheFunctionApp.pdb
+C:\Users\jacek\OneDrive\Desktop\C#\CalculateTheValueOfTheFunctionApp\CalculateTheValueOfTheFunctionApp\obj\Debug\netcoreapp3.1\CalculateTheValueOfTheFunctionApp.csproj.AssemblyReference.cache
+C:\Users\jacek\OneDrive\Desktop\C#\CalculateTheValueOfTheFunctionApp\CalculateTheValueOfTheFunctionApp\obj\Debug\netcoreapp3.1\CalculateTheValueOfTheFunctionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacek\OneDrive\Desktop\C#\CalculateTheValueOfTheFunctionApp\CalculateTheValueOfTheFunctionApp\obj\Debug\netcoreapp3.1\CalculateTheValueOfTheFunctionApp.AssemblyInfoInputs.cache
+C:\Users\jacek\OneDrive\Desktop\C#\CalculateTheValueOfTheFunctionApp\CalculateTheValueOfTheFunctionApp\obj\Debug\netcoreapp3.1\CalculateTheValueOfTheFunctionApp.AssemblyInfo.cs
+C:\Users\jacek\OneDrive\Desktop\C#\CalculateTheValueOfTheFunctionApp\CalculateTheValueOfTheFunctionApp\obj\Debug\netcoreapp3.1\CalculateTheValueOfTheFunctionApp.csproj.CoreCompileInputs.cache
+C:\Users\jacek\OneDrive\Desktop\C#\CalculateTheValueOfTheFunctionApp\CalculateTheValueOfTheFunctionApp\obj\Debug\netcoreapp3.1\CalculateTheValueOfTheFunctionApp.dll
+C:\Users\jacek\OneDrive\Desktop\C#\CalculateTheValueOfTheFunctionApp\CalculateTheValueOfTheFunctionApp\obj\Debug\netcoreapp3.1\CalculateTheValueOfTheFunctionApp.pdb
+C:\Users\jacek\OneDrive\Desktop\C#\CalculateTheValueOfTheFunctionApp\CalculateTheValueOfTheFunctionApp\obj\Debug\netcoreapp3.1\CalculateTheValueOfTheFunctionApp.genruntimeconfig.cache
